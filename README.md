@@ -1,5 +1,7 @@
 # drone-argocd-plugin
 
+## demo
+
 ```yaml
 -   name: argocd deploy
     image: yahuiwong/drone-argocd-plugin:v2.3.3
